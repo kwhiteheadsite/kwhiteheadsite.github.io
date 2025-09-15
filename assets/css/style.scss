@@ -58,17 +58,6 @@ body {
             opacity: 0.8;
         }
     }
-    @media (min-width: $breakpoint-mobile) {
-        .section-content {
-            grid-template-columns: minmax(auto, 600px) 1fr;
-            justify-content: space-between;
-
-            .image-content {
-                justify-self: end;
-                padding-right: 2rem;
-            }
-        }
-    }
 }
 
 #banner {
