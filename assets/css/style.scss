@@ -49,6 +49,10 @@ body {
     }
     .main-title {
         color: $color-light;
+        font-family: $font-heading;
+        font-size: clamp(2rem, 15vw, 7rem);  // Responsive font size
+        margin: 0 0 1rem 0;
+        text-align: left;
     }
     a {
         font-size: 1.5em;
@@ -154,13 +158,6 @@ section {
         font-family: $font-body;
         font-size: 1.5rem;
     }
-}
-
-.main-title {
-    font-family: $font-heading;
-    font-size: 7rem;
-    margin: 0 0 1rem 0;
-    text-align: left;
 }
 
 a {
