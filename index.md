@@ -65,7 +65,7 @@ sections:
         <div class="text-content">
             <h1>Editing</h1>
             <p>I am passionate about helping writers develop their stories.</p>
-            <p>I was previously Commissioning Editor at 4th Estate, where I worked on a range of literary fiction and non-fiction, acquiring books by Lena Dunham, creator of HBO's girls, and National Book Award Longlistee T. Geronimo Johnson, among others.</p>
+            <p>I was previously Commissioning Editor at 4th Estate, where I worked on a range of literary fiction and non-fiction, acquiring books by Lena Dunham, creator of HBO's <i>Girls</i>, and National Book Award longlistee T. Geronimo Johnson, among others.</p>
             <p>In 2023, I helped launch the short fiction site, <a href="https://cosmorama.site/">Cosmorama</a>, as Editor in Chief.</p>
             <p>Currently, I work as a freelance editor, for <a href="https://literaryconsultancy.co.uk/">The Literary Consultancy</a>, the UK's longest-established editorial consultancy, where I am also on the editorial committee.</p>
             <p>I have a particular interest in innovative female voices, but read widely across genres, and pride myself on meeting the writer wherever they are at.</p>
