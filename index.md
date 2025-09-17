@@ -49,7 +49,6 @@ sections:
             <p>I work in both fiction and non-fiction.</p>
             <p>I have a completed novella, <i>Wonderwood</i>, and a short story collection nearing completion.</p>
             <p>My current project is a novel set in Epping Forest.</p>
-            <p>I am also an <a href="#editing">Editor</a>.</p>
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-04.jpg" alt="Katy Whitehead">
@@ -70,7 +69,6 @@ sections:
                 <p>[Katy’s] skills as a reader and editor are unmatched in anything I’ve experienced in writing and publishing, and her ability to communicate her thoughts, critiques, and ideas is second to none… She became an adviser and a confidant. Her knowledge of the industry is thorough and she is a wealth of information and inspiration. When it comes to editing, she has the skills and experience to help turn a good story into a great story. She elevates the material while ensuring it retains its soul and voice.</p>
                 <cite>- Ryan O’Connell, Cosmorama Founder</cite>
             </blockquote>
-            <p>I am also a <a href="#writing">Writer</a>.</p>
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-01.jpg" alt="Katy Whitehead">
