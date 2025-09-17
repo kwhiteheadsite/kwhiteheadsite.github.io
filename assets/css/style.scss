@@ -208,6 +208,20 @@ img {
     }
 }
 
+#read {
+    .section-content {
+        grid-template-columns: minmax(auto, 600px);
+        max-width: $max-width-container;
+        margin: 0 auto;
+        justify-content: center;
+    }
+
+    .centered-text-content {
+        max-width: 600px;
+        width: 100%;
+    }
+}
+
 .page-nav {
     padding: 2rem;
     margin-bottom: 1rem;
