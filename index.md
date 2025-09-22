@@ -25,7 +25,7 @@ sections:
             <p><a href="#contact">Contact</a></p>
         </div>
         <div class="image-content">
-            <img src="assets/images/KatyWhitehead090925-11.jpg" alt="Katy Whitehead">
+            <img src="assets/images/KatyWhitehead090925-11.jpg" alt="A woman with brown hair and glasses smiles slightly at the camera. She's wearing a dark blue sweater with a yellow sun design on the chest and a pattern of pink flowers on the sleeves. The background is blurred, showing a field of dry grasses and trees.">
         </div>
     </div>
 </section>
@@ -51,7 +51,7 @@ sections:
             <p>My current project is a novel set in Epping Forest.</p>
         </div>
         <div class="image-content">
-            <img src="assets/images/KatyWhitehead090925-04.jpg" alt="Katy Whitehead">
+            <img src="assets/images/KatyWhitehead090925-04.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
         </div>
     </div>
 </section>
@@ -71,7 +71,7 @@ sections:
             </blockquote>
         </div>
         <div class="image-content">
-            <img src="assets/images/KatyWhitehead090925-01.jpg" alt="Katy Whitehead">
+            <img src="assets/images/KatyWhitehead090925-01.jpg" alt="A headshot of a smiling woman with glasses and brown hair, wearing a colorful, patterned shirt with floral and leopard print designs. She is outdoors in front of tall, dry grasses. The lighting is bright, with sunlight catching the top of her hair.">
         </div>
     </div>
 </section>
@@ -96,7 +96,7 @@ sections:
             <p>If you would like to discuss my work, or yours, please get in touch at <a href="mailto:leversandpivots@hotmail.com">leversandpivots@hotmail.com</a>.</p>
         </div>
         <div class="image-content">
-            <img src="assets/images/KatyWhitehead090925-20.jpg" alt="Katy Whitehead">
+            <img src="assets/images/KatyWhitehead090925-20.jpg" alt="A medium shot of a woman with glasses and brown hair, sitting on a wooden bench outdoors. She is wearing a dark blue sweater with a yellow sun design on the chest and a pattern of pink flowers on the sleeves. Her expression is calm and friendly. The background is a sunny, blurred outdoor scene with trees and dry grass.">
         </div>
     </div>
 </section>
