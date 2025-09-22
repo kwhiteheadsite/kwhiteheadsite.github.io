@@ -31,7 +31,7 @@ sections:
 </section>
 
 <section id="banner">
-    <img src="assets/images/newspaper.png" alt="Newspaper background">
+    <img src="assets/images/newspaper.png" alt="A black and white newspaper clipping. A headshot of a young girl with dark hair and bangs is on the left. She is propping her head up with one hand and holding a pen with the other, looking at the camera. Text on the right reads: \"Katy Whitehead Santa's Busy Day Winner under 11s\" followed by a quote praising her writing.">
     <div class="banner-text">Crafting stories since the nineties</div>
 </section>
 
