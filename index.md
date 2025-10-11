@@ -47,7 +47,7 @@ sections:
             <p>I am an associate member of the Society of Authors, and a full member of Leather Lane Writers Group.</p>
         
             <p>I work in both fiction and non-fiction.</p>
-            <p>I have a completed novella, <i>Wonderwood</i>, and a short story collection nearing completion.</p>
+            <p>I have a completed short novel, <i>Wonderwood</i>, and a short story collection nearing completion.</p>
             <p>My current project is a novel set in Epping Forest.</p>
         </div>
         <div class="image-content">
