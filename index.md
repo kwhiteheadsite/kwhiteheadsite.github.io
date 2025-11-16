@@ -40,7 +40,7 @@ sections:
         <div class="text-content">
             <h1>Writing</h1>
             <p>I'm the winner of the 2017 Fitzcarraldo Editions Essay Prize and the recipient of a 2021 Arts Council Developing Your Creative Practice grant.</p>
-        
+
             <p>I have been shortlisted for the Bridport Short Story Prize, the Myriad Editions First Drafts Prize, and Penned in the Margins Generation Txt.</p>
             <p>I have been longlisted for the Moniack Mhor Emerging Writers Award, the Mslexia novel competition, and a Sky Academy Arts Scholarship.</p>
         
@@ -54,6 +54,7 @@ sections:
             <img src="assets/images/KatyWhitehead090925-04.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
         </div>
     </div>
+
 </section>
 
 <section id="editing">
@@ -83,6 +84,7 @@ sections:
             <ul>
                 <li><a href="https://granta.com/kidzania/">Kidzania</a> on Granta</li>
                 <li><a href="/a-quarter-tab-of-loss/">A Quarter Tab of Loss</a>, originally published on Roxane Gay's Substack, <a href="https://audacity.substack.com/p/a-quarter-tab-of-loss">The Audacity</a></li>
+                <li>>For Graywolf Press' Graywolf Lab I wrote about escape rooms: <a href="https://graywolflab.org/2025/11/14/escaping-the-family/">Escaping the Family</a></li>
             </ul>
             <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a>.</p>
         </div>
