@@ -30,9 +30,8 @@ answers, but it will feel thin, cursory, too shallow—and at the same
 time, too intense, too pressured, by the brevity of our time
 together—and I am rarely able to get beneath the respectable, rote chat
 of subject choices or her quasi-coy, quasi-proud, always offhand talk of
-boyfriends.<br />
-<br />
-Before I had kids of my own, I’d always prided myself on my relationship
+boyfriends.</p>
+<p>Before I had kids of my own, I’d always prided myself on my relationship
 with my niece. I found her inspiring. Literally. For years, I had
 struggled with writer’s block; after visiting Laney as a toddler, I
 would write for hours. I felt through her I had a stake in a future that
@@ -128,12 +127,11 @@ Christmas, or her birthday swings around, I get specific Amazon
 instructions, totalling almost exactly the £25 I’ve budgeted to spend.
 It feels more like admin than caring. I don’t pay extra to get them
 wrapped.</p>
-<p> </p>
 <p>Recently, after she was visibly unhappy with her eyebrows and the
 pencil she’d used, I broke our family’s agreed budget and bought a Boy
 Brow stick from Glossier. ‘Do you know what that is?’ I asked, needily.
 ‘Oh yeah,’ she mumbled, then something like ‘fancy.’ One time I sent her
-an un-asked for a chess set. It got lost for months in the post. And
+an un-asked for a chess set. It got lost for months in the post. And
 even though it wasn’t my fault, it felt symbolic of something. That she
 could no longer depend on me. That my love had faltered, the capacity of
 love that had compelled me that first day to sketch her—because art, as
