@@ -46,9 +46,8 @@ sections:
         
             <p>I am an associate member of the Society of Authors, and a full member of Leather Lane Writers Group.</p>
         
-            <p>I work in both fiction and non-fiction.</p>
-            <p>I have a completed short novel, <i>Wonderwood</i>, and a short story collection nearing completion.</p>
-            <p>My current project is a novel set in Epping Forest.</p>
+            <p>I work in both fiction and non-fiction and have had work published online by Granta, Grayworf Labs, and Roxane Gay’s The Audacity.</p>
+            <p>I have a short novel, Wonderwood, a story collection, Fire under Water, and a recently completed novel, Time Only Goes One Way – about a woman who goes on a long walk through Epping forest – all currently on submission. </p>
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-04.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
