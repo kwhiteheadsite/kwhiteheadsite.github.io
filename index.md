@@ -93,7 +93,7 @@ sections:
                 <li><a href="https://granta.com/kidzania/">Kidzania</a> on Granta</li>
                 <li><a href="/a-quarter-tab-of-loss/">A Quarter Tab of Loss</a>, originally published on Roxane Gay's Substack, <a href="https://audacity.substack.com/p/a-quarter-tab-of-loss">The Audacity</a></li>
                 <li>For Graywolf Press' Graywolf Lab <a href="https://graywolflab.org/2025/11/14/escaping-the-family/">I wrote about escape rooms</a></li>
-                <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a>on dirt.fyi</li>
+                <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a> on dirt.fyi</li>
             </ul>
             <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
         </div>
