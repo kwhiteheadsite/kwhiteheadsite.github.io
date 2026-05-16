@@ -66,7 +66,7 @@ sections:
             <p>Currently, I work as a reader for <a href="https://literaryconsultancy.co.uk/">The Literary Consultancy</a>, the UK's longest-established editorial consultancy, where I am also on the editorial committee.</p>
             <p>I read widely across genres, and pride myself on meeting the writer wherever they are at.</p>
             <blockquote>
-                <p>Smart, insightful, and supportive, Katy Whitehead is a delight to work with. She is intelligent and enthusiastic, rigorous, and, most importantly, possesses an astounding capacity to entertain narrative possibilities that are not yet fully clear to the author.  I remain indebted to her for the patience and wisdom demonstrated while I was writing Welcome to Braggsville.  Her support and insight were instrumental during that novel’s most significant transitional phase.</p>
+                <p>Smart, insightful, and supportive, Katy Whitehead is a delight to work with. She is intelligent and enthusiastic, rigorous, and, most importantly, possesses an astounding capacity to entertain narrative possibilities that are not yet fully clear to the author.  I remain indebted to her for the patience and wisdom demonstrated while I was writing <i>Welcome to Braggsville</i>.  Her support and insight were instrumental during that novel’s most significant transitional phase.</p>
                 <cite>- T Geronimo Johnson, bestselling author</cite>
             </blockquote>
             <blockquote>
