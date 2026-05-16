@@ -67,7 +67,7 @@ sections:
             <p>I read widely across genres, and pride myself on meeting the writer wherever they are at.</p>
             <blockquote>
                 <p>Smart, insightful, and supportive, Katy Whitehead is a delight to work with. She is intelligent and enthusiastic, rigorous, and, most importantly, possesses an astounding capacity to entertain narrative possibilities that are not yet fully clear to the author.  I remain indebted to her for the patience and wisdom demonstrated while I was writing Welcome to Braggsville.  Her support and insight were instrumental during that novel’s most significant transitional phase.</p>
-                <cite>- T Geronimo Johnson, bestselling author of Welcome to Braggsville, longlisted for the National Book Award</cite>
+                <cite>- T Geronimo Johnson, bestselling author</cite>
             </blockquote>
             <blockquote>
                 <p>Katy Whitehead is a superb editor and reader. She brings a wealth of experience and knowledge from working as a commissioning editor for a major publisher, but, crucially, she is also an exceptionally talented and respected writer, meaning she reads and edits with great empathy, understanding every aspect of the creative process. If something isn’t working in your draft, you can trust Katy to tell you directly, to explain why, and to make deeply thoughtful suggestions that will strengthen your prose and story.</p>
