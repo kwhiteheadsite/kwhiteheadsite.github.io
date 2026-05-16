@@ -47,8 +47,8 @@ sections:
             <p>I am an associate member of the Society of Authors, and a full member of Leather Lane Writers Group.</p>
         
             <p>I work in both fiction and non-fiction and have had work published online by Granta, Graywolf Labs, and Roxane Gay’s The Audacity.</p>
-            <p>I have a short novel, Wonderwood, a story collection, Fire under Water, and a recently completed novel, Time Only Goes One Way – about a woman who goes on a long walk through Epping forest – all currently on submission. </p>
-            <p>I'm currently writing a book-length essary about the internet.</p>
+            <p>I have a short novel, Wonderwood, a story collection, Fire under Water, and a recently completed novel, Time Only Goes One Way – about a woman who goes on a long walk through Epping forest – all on submission. </p>
+            <p>I'm currently writing a book-length essay about the internet.</p>
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-04.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
@@ -79,7 +79,7 @@ sections:
             <p></p>
             <blockquote>
                 <p>[Katy’s] skills as a reader and editor are unmatched in anything I’ve experienced in writing and publishing, and her ability to communicate her thoughts, critiques, and ideas is second to none… She became an adviser and a confidant. Her knowledge of the industry is thorough and she is a wealth of information and inspiration. When it comes to editing, she has the skills and experience to help turn a good story into a great story. She elevates the material while ensuring it retains its soul and voice.</p>
-                <cite>- Ryan O’Connell, Cosmorama Founder</cite>
+                <cite>- Ryan O’Connell, Cosmorama founder</cite>
             </blockquote>
         </div>
         <div class="image-content">
