@@ -70,11 +70,13 @@ sections:
                 <p>Smart, insightful, and supportive, Katy Whitehead is a delight to work with. She is intelligent and enthusiastic, rigorous, and, most importantly, possesses an astounding capacity to entertain narrative possibilities that are not yet fully clear to the author.  I remain indebted to her for the patience and wisdom demonstrated while I was writing <i>Welcome to Braggsville</i>.  Her support and insight were instrumental during that novel’s most significant transitional phase.</p>
                 <cite>- T Geronimo Johnson, bestselling author</cite>
             </blockquote>
+            <p></p>
             <blockquote>
                 <p>Katy Whitehead is a superb editor and reader. She brings a wealth of experience and knowledge from working as a commissioning editor for a major publisher, but, crucially, she is also an exceptionally talented and respected writer, meaning she reads and edits with great empathy, understanding every aspect of the creative process. If something isn’t working in your draft, you can trust Katy to tell you directly, to explain why, and to make deeply thoughtful suggestions that will strengthen your prose and story.</p>
                 <p>The rigorous editorial report that Katy delivered on my novel has given me the confidence to send the manuscript out after more than two years of rewriting and editing. I would not have reached this point without her support and inspiration. If you are serious about being taken seriously as a writer, you should work with Katy.</p>
                 <cite>- Alex Hopkins, writer and editor</cite>
             </blockquote>
+            <p></p>
             <blockquote>
                 <p>[Katy’s] skills as a reader and editor are unmatched in anything I’ve experienced in writing and publishing, and her ability to communicate her thoughts, critiques, and ideas is second to none… She became an adviser and a confidant. Her knowledge of the industry is thorough and she is a wealth of information and inspiration. When it comes to editing, she has the skills and experience to help turn a good story into a great story. She elevates the material while ensuring it retains its soul and voice.</p>
                 <cite>- Ryan O’Connell, Cosmorama Founder</cite>
