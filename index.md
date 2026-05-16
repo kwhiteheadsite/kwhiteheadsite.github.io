@@ -46,7 +46,7 @@ sections:
         
             <p>I am an associate member of the Society of Authors, and a full member of Leather Lane Writers Group.</p>
         
-            <p>I work in both fiction and non-fiction and have had work published online by Granta, Grayworf Labs, and Roxane Gay’s The Audacity.</p>
+            <p>I work in both fiction and non-fiction and have had work published online by Granta, Graywolf Labs, and Roxane Gay’s The Audacity.</p>
             <p>I have a short novel, Wonderwood, a story collection, Fire under Water, and a recently completed novel, Time Only Goes One Way – about a woman who goes on a long walk through Epping forest – all currently on submission. </p>
         </div>
         <div class="image-content">
