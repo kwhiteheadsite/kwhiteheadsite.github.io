@@ -39,16 +39,23 @@ sections:
     <div class="section-content">
         <div class="text-content">
             <h1>Writing</h1>
+            
             <p>I'm the winner of the 2017 Fitzcarraldo Editions Essay Prize and the recipient of a 2021 Arts Council Developing Your Creative Practice grant.</p>
+            
+            <p>I have been shortlisted or longlisted for the Bridport Short Story Prize, Myriad Editions First Drafts Prize, Penned in the Margin’s Generation Txt, Moniack Mhor Emerging Writers Award, Mslexia novel competition, London Magazine short story competition, L’Esprit Literary review and a Sky Academy Arts Scholarship.</p>
 
-            <p>I have been shortlisted for the Bridport Short Story Prize, the Myriad Editions First Drafts Prize, and Penned in the Margins Generation Txt.</p>
-            <p>I have been longlisted for the Moniack Mhor Emerging Writers Award, the Mslexia novel competition, and a Sky Academy Arts Scholarship.</p>
-        
             <p>I am an associate member of the Society of Authors, and a full member of Leather Lane Writers Group.</p>
-        
-            <p>I work in both fiction and non-fiction and have had work published online by Granta, Graywolf Labs, and Roxane Gay’s The Audacity.</p>
-            <p>I have a short novel, Wonderwood, a story collection, Fire under Water, and a recently completed novel, Time Only Goes One Way – about a woman who goes on a long walk through Epping forest – all on submission. </p>
-            <p>I'm currently writing a book-length essay about the internet.</p>
+
+            <p>I have projects completed or nearly completed:</p>
+            
+            <p>Wonderwood: a short feminist gothic novel about Brit, who leaves her groom on their wedding day and becomes a nanny for ethereal, sprite-like children at the country mansion that gives the book its name. After Brit encourages the children to break rules and play with time and responsibility, she finds herself caught up in their games when they use her tricks against her, and to their own ends. For fans of Carmen Maria Machado, Ottessa Moshfegh and Mariana Enriquez.</p>
+            
+            <p>Fake Magic for Real Girls: a short story collection.</p>
+            
+            <p>Time Only Goes One Way: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s Audition, Lisa Halliday’s Asymmetry and Ian McEwan’s Atonement, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</p>
+            
+            <p>I'm currently writing a novel about monogamy.</p>
+
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-04.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
