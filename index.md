@@ -19,7 +19,6 @@ sections:
             <h1>Writer and Editor</h1>
             <p><a href="#writing">Writing</a></p>
             <p><a href="#editing">Editing</a></p>
-            <p><a href="#read">Read My Work</a></p>
             <p><a href="#contact">Contact</a></p>
         </div>
         <div class="image-content">
