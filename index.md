@@ -8,8 +8,6 @@ sections:
     name: Writing
   - id: editing
     name: Editing
-  - id: read
-    name: Read My Work
   - id: contact
     name: Contact
 ---
@@ -56,6 +54,14 @@ sections:
             
             <p>I'm currently writing a novel about monogamy.</p>
 
+            <p>Read my published work here:</p>
+            <ul>
+                <li><a href="https://granta.com/kidzania/">Kidzania</a> on Granta</li>
+                <li><a href="/a-quarter-tab-of-loss/">A Quarter Tab of Loss</a>, originally published on Roxane Gay's Substack, <a href="https://audacity.substack.com/p/a-quarter-tab-of-loss">The Audacity</a></li>
+                <li>For Graywolf Press' Graywolf Lab <a href="https://graywolflab.org/2025/11/14/escaping-the-family/">I wrote about escape rooms</a></li>
+                <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a> on dirt.fyi</li>
+            </ul>
+            <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-04.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
@@ -91,21 +97,6 @@ sections:
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-01.jpg" alt="A headshot of a smiling woman with glasses and brown hair, wearing a colorful, patterned shirt with floral and leopard print designs. She is outdoors in front of tall, dry grasses. The lighting is bright, with sunlight catching the top of her hair.">
-        </div>
-    </div>
-</section>
-
-<section id="read">
-    <div class="section-content">
-        <div class="centered-text-content">
-            <h1>Read My Work</h1>
-            <ul>
-                <li><a href="https://granta.com/kidzania/">Kidzania</a> on Granta</li>
-                <li><a href="/a-quarter-tab-of-loss/">A Quarter Tab of Loss</a>, originally published on Roxane Gay's Substack, <a href="https://audacity.substack.com/p/a-quarter-tab-of-loss">The Audacity</a></li>
-                <li>For Graywolf Press' Graywolf Lab <a href="https://graywolflab.org/2025/11/14/escaping-the-family/">I wrote about escape rooms</a></li>
-                <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a> on dirt.fyi</li>
-            </ul>
-            <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
         </div>
     </div>
 </section>
