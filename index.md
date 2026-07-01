@@ -42,7 +42,7 @@ sections:
             
             <p>I'm the winner of the 2017 Fitzcarraldo Editions Essay Prize and the recipient of a 2021 Arts Council Developing Your Creative Practice grant.</p>
             
-            <p>I have been shortlisted or longlisted for the Bridport Short Story Prize, Myriad Editions First Drafts Prize, Penned in the Margin’s Generation Txt, Moniack Mhor Emerging Writers Award, Mslexia novel competition, London Magazine short story competition, L’Esprit Literary review and a Sky Academy Arts Scholarship.</p>
+            <p>I have been shortlisted or longlisted for the Bridport Short Story Prize, Myriad Editions First Drafts Prize, Penned in the Margin’s Generation Txt, Moniack Mhor Emerging Writers Award, Mslexia novel competition, London Magazine short story competition, L’Esprit Literary review competition and a Sky Academy Arts Scholarship.</p>
 
             <p>I am an associate member of the Society of Authors, and a full member of Leather Lane Writers Group.</p>
 
