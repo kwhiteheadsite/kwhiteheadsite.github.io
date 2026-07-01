@@ -8,6 +8,8 @@ sections:
     name: Writing
   - id: editing
     name: Editing
+  - id: read
+    name: Read My Work
   - id: contact
     name: Contact
 ---
@@ -19,6 +21,7 @@ sections:
             <h1>Writer and Editor</h1>
             <p><a href="#writing">Writing</a></p>
             <p><a href="#editing">Editing</a></p>
+            <p><a href="#read">Read My Work</a></p>
             <p><a href="#contact">Contact</a></p>
         </div>
         <div class="image-content">
@@ -44,21 +47,17 @@ sections:
             <p>I am an associate member of the Society of Authors, and a full member of Leather Lane Writers Group.</p>
 
             <p>I have projects completed or nearly completed:</p>
-            <ul>
-                <li>Wonderwood: a short feminist gothic novel about Brit, who leaves her groom on their wedding day and becomes a nanny for ethereal, sprite-like children at the country mansion that gives the book its name. After Brit encourages the children to break rules and play with time and responsibility, she finds herself caught up in their games when they use her tricks against her, and to their own ends. For fans of Carmen Maria Machado, Ottessa Moshfegh and Mariana Enriquez.</li>
-                <li>Fake Magic for Real Girls: a short story collection.</li>
-                <li>Time Only Goes One Way: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s Audition, Lisa Halliday’s Asymmetry and Ian McEwan’s Atonement, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</li>
-            </ul>
+            
+            <p>Wonderwood: a short feminist gothic novel about Brit, who leaves her groom on their wedding day and becomes a nanny for ethereal, sprite-like children at the country mansion that gives the book its name. After Brit encourages the children to break rules and play with time and responsibility, she finds herself caught up in their games when they use her tricks against her, and to their own ends. For fans of Carmen Maria Machado, Ottessa Moshfegh and Mariana Enriquez.</p>
+            
+            <p>Fake Magic for Real Girls: a short story collection.</p>
+            
+            <p>Time Only Goes One Way: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s Audition, Lisa Halliday’s Asymmetry and Ian McEwan’s Atonement, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</p>
+            
             <p>I'm currently writing a novel about monogamy.</p>
 
-            <p>Read my published work here:</p>
-            <ul>
-                <li><a href="https://granta.com/kidzania/">Kidzania</a> on Granta</li>
-                <li><a href="/a-quarter-tab-of-loss/">A Quarter Tab of Loss</a>, originally published on Roxane Gay's Substack, <a href="https://audacity.substack.com/p/a-quarter-tab-of-loss">The Audacity</a></li>
-                <li>For Graywolf Press' Graywolf Lab <a href="https://graywolflab.org/2025/11/14/escaping-the-family/">I wrote about escape rooms</a></li>
-                <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a> on dirt.fyi</li>
-            </ul>
-            <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
+            <p><a href="#read">Read my published work here</a></p>
+
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-04.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
@@ -94,6 +93,21 @@ sections:
         </div>
         <div class="image-content">
             <img src="assets/images/KatyWhitehead090925-01.jpg" alt="A headshot of a smiling woman with glasses and brown hair, wearing a colorful, patterned shirt with floral and leopard print designs. She is outdoors in front of tall, dry grasses. The lighting is bright, with sunlight catching the top of her hair.">
+        </div>
+    </div>
+</section>
+
+<section id="read">
+    <div class="section-content">
+        <div class="centered-text-content">
+            <h1>Read My Work</h1>
+            <ul>
+                <li><a href="https://granta.com/kidzania/">Kidzania</a> on Granta</li>
+                <li><a href="/a-quarter-tab-of-loss/">A Quarter Tab of Loss</a>, originally published on Roxane Gay's Substack, <a href="https://audacity.substack.com/p/a-quarter-tab-of-loss">The Audacity</a></li>
+                <li>For Graywolf Press' Graywolf Lab <a href="https://graywolflab.org/2025/11/14/escaping-the-family/">I wrote about escape rooms</a></li>
+                <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a> on dirt.fyi</li>
+            </ul>
+            <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
         </div>
     </div>
 </section>
