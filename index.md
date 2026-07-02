@@ -50,7 +50,7 @@ sections:
             
             <p>Wonderwood: a short feminist gothic novel about Brit, who leaves her groom on their wedding day and becomes a nanny for ethereal, sprite-like children at the country mansion that gives the book its name. After Brit encourages the children to break rules and play with time and responsibility, she finds herself caught up in their games when they use her tricks against her, and to their own ends. For fans of Carmen Maria Machado, Ottessa Moshfegh and Mariana Enriquez.</p>
             
-            <p>Fake Magic for Real Girls: a short story collection.</p>
+            <p>Fake Magick for Real Girls: a short story collection.</p>
             
             <p>Time Only Goes One Way: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s Audition, Lisa Halliday’s Asymmetry and Ian McEwan’s Atonement, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</p>
             
