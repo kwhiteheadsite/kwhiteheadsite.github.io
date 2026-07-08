@@ -60,7 +60,7 @@ sections:
 
         </div>
         <div class="image-content">
-            <img src="assets/images/cheers.jpg" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
+            <img src="assets/images/cheers.png" alt="A portrait of a woman with glasses and brown hair, standing outdoors in a field of tall, dry grasses. She is wearing a dark blue sleeveless top and a pale, patterned skirt. Her hands are clasped in front of her. The background is a mix of green foliage and dappled sunlight.">
         </div>
     </div>
 
@@ -119,7 +119,7 @@ sections:
             <p>If you would like to discuss my work, or yours, please get in touch at <a href="mailto:leversandpivots@hotmail.com">leversandpivots@hotmail.com</a>.</p>
         </div>
         <div class="image-content">
-            <img src="assets/images/KatyWhitehead090925-20.jpg" alt="A medium shot of a woman with glasses and brown hair, sitting on a wooden bench outdoors. She is wearing a dark blue sweater with a yellow sun design on the chest and a pattern of pink flowers on the sleeves. Her expression is calm and friendly. The background is a sunny, blurred outdoor scene with trees and dry grass.">
+            <img src="assets/images/failureisanoption.png" alt="A medium shot of a woman with glasses and brown hair, sitting on a wooden bench outdoors. She is wearing a dark blue sweater with a yellow sun design on the chest and a pattern of pink flowers on the sleeves. Her expression is calm and friendly. The background is a sunny, blurred outdoor scene with trees and dry grass.">
         </div>
     </div>
 </section>
