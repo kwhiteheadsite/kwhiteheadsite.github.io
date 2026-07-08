@@ -110,7 +110,7 @@ sections:
             <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
         </div>
         <div class="image-content">
-            <img src="assets/images/restaurant.png" alt="A headshot of a smiling woman with glasses and brown hair, wearing a colorful, patterned shirt with floral and leopard print designs. She is outdoors in front of tall, dry grasses. The lighting is bright, with sunlight catching the top of her hair.">
+            <img src="assets/images/restaurant.png" alt="A woman with long brown hair and glasses wearing a green patterned top takes a selfie at a restaurant table, with a man visible in the background seated at the table.">
         </div>
     </div>
 </section>
