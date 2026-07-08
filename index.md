@@ -99,7 +99,7 @@ sections:
 
 <section id="read">
     <div class="section-content">
-        <div class="centered-text-content">
+        <div class="text-content">
             <h1>Read My Work</h1>
             <ul>
                 <li><a href="https://granta.com/kidzania/">Kidzania</a> on Granta</li>
@@ -108,6 +108,9 @@ sections:
                 <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a> on dirt.fyi</li>
             </ul>
             <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
+        </div>
+        <div class="image-content">
+            <img src="assets/images/restaurant.png" alt="A headshot of a smiling woman with glasses and brown hair, wearing a colorful, patterned shirt with floral and leopard print designs. She is outdoors in front of tall, dry grasses. The lighting is bright, with sunlight catching the top of her hair.">
         </div>
     </div>
 </section>
