@@ -60,7 +60,7 @@ sections:
 
         </div>
         <div class="image-content">
-            <img src="assets/images/cheers.png" alt="AA woman with shoulder-length brown hair and glasses wearing a dark button-down shirt holds up a glass of water for a toast in front of colorful framed artwork on a dark green wall.">
+            <img src="assets/images/cheers.jpg" alt="AA woman with shoulder-length brown hair and glasses wearing a dark button-down shirt holds up a glass of water for a toast in front of colorful framed artwork on a dark green wall.">
         </div>
     </div>
 
@@ -110,7 +110,7 @@ sections:
             <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
         </div>
         <div class="image-content">
-            <img src="assets/images/restaurant.png" alt="A woman with long brown hair and glasses wearing a green patterned top takes a selfie at a restaurant table, with a man visible in the background seated at the table.">
+            <img src="assets/images/restaurant.jpg" alt="A woman with long brown hair and glasses wearing a green patterned top takes a selfie at a restaurant table, with a man visible in the background seated at the table.">
         </div>
     </div>
 </section>
@@ -122,7 +122,7 @@ sections:
             <p>If you would like to discuss my work, or yours, please get in touch at <a href="mailto:leversandpivots@hotmail.com">leversandpivots@hotmail.com</a>.</p>
         </div>
         <div class="image-content">
-            <img src="assets/images/failureisanoption.png" alt="A woman with long brown hair and glasses wearing a green patterned top takes a selfie at a restaurant table, with a man visible in the background seated at the table.">
+            <img src="assets/images/failureisanoption.jpg" alt="A woman with long brown hair and glasses wearing a green patterned top takes a selfie at a restaurant table, with a man visible in the background seated at the table.">
         </div>
     </div>
 </section>
