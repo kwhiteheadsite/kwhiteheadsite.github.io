@@ -52,7 +52,7 @@ sections:
             
             <p><i>Fake Magick for Real Girls</i>: a short story collection.</p>
             
-            <p><i>Time Only Goes One Way</i>: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s Audition, Lisa Halliday’s Asymmetry and Ian McEwan’s Atonement, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</p>
+            <p><i>Time Only Goes One Way</i>: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s <i>Audition</i>, Lisa Halliday’s <i>Asymmetry</i> and Ian McEwan’s <i>Atonement</i>, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</p>
             
             <p>I'm currently writing an autofictional novel about monogamy.</p>
 
