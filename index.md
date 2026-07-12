@@ -48,11 +48,11 @@ sections:
 
             <p>I have projects completed or nearly completed:</p>
             
-            <p>Wonderwood: a short feminist gothic novel about Brit, who leaves her groom on their wedding day and becomes a nanny for ethereal, sprite-like children at the country mansion that gives the book its name. After Brit encourages the children to break rules and play with time and responsibility, she finds herself caught up in their games when they use her tricks against her, and to their own ends. For fans of Carmen Maria Machado, Ottessa Moshfegh and Mariana Enriquez.</p>
+            <p><i>Wonderwood</i>: a short feminist gothic novel about Brit, who leaves her groom on their wedding day and becomes a nanny for ethereal, sprite-like children at the country mansion that gives the book its name. After Brit encourages the children to break rules and play with time and responsibility, she finds herself caught up in their games when they use her tricks against her, and to their own ends. For fans of Carmen Maria Machado, Ottessa Moshfegh and Mariana Enriquez.</p>
             
-            <p>Fake Magick for Real Girls: a short story collection.</p>
+            <p><i>Fake Magick for Real Girls</i>: a short story collection.</p>
             
-            <p>Time Only Goes One Way: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s Audition, Lisa Halliday’s Asymmetry and Ian McEwan’s Atonement, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</p>
+            <p><i>Time Only Goes One Way</i>: this novel follows a dissatisfied mother-of-two who at nineteen started a globally beloved children’s book series, and who now, aged 39, returns to the woods where she found her original inspiration, seeking a new story. A metatextual story for fans of Katie Kitamura’s Audition, Lisa Halliday’s Asymmetry and Ian McEwan’s Atonement, it plays with children’s literature, fairytale, autofiction, nature writing and true crime, exploring – and subverting – the trauma plot.</p>
             
             <p>I'm currently writing an autofictional novel about monogamy.</p>
 
@@ -106,7 +106,7 @@ sections:
                 <li><a href="/a-quarter-tab-of-loss/">A Quarter Tab of Loss</a>, originally published on Roxane Gay's Substack, <a href="https://audacity.substack.com/p/a-quarter-tab-of-loss">The Audacity</a></li>
                 <li>For Graywolf Press' Graywolf Lab <a href="https://graywolflab.org/2025/11/14/escaping-the-family/">I wrote about escape rooms</a></li>
                 <li><a href="https://dirt.fyi/article/2026/05/agony-and-the-planet-grew-hotter">Agony / And the Planet Grew Hotter</a> on dirt.fyi</li>
-                <li><a href="https://electricliterature.com/what-sally-rooneys-fiction-illuminates-about-real-life-marriage/">“Watching Normal People”</a> on Electric Literature</li>
+                <li><a href="https://electricliterature.com/what-sally-rooneys-fiction-illuminates-about-real-life-marriage/">Watching Normal People</a> on Electric Literature</li>
             </ul>
             <p>To keep up to date about new writing please follow me on <a href="https://substack.com/@katynophone">Substack</a> or Instagram <a href="https://www.instagram.com/katywhiteheadwriter/">@katywhiteheadwriter</a>.</p>
         </div>
